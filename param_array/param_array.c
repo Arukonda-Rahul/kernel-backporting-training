@@ -5,7 +5,7 @@
 
 MODULE_LICENSE("GPL");
 
-int param_array[4];
+int param_array[6];
 
 static int argc_count=0;
 
